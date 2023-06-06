@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588607608055",
+    "project_id": "teste-planilha-d7e4c",
+    "storage_bucket": "teste-planilha-d7e4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588607608055:android:c15b9e2c90a95a7a826ff2",
+        "android_client_info": {
+          "package_name": "br.com.json_to_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkh-4u6TERJxn_A-hEXwMurTg3_0USsN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
